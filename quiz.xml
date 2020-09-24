@@ -2,10 +2,10 @@
 <quiz>
     <question type="multichoice">
         <name>
-            <text>Demo question à choix multiples</text>
+		<text>Demo question à choix multiples #3</text>
         </name>
         <questiontext format="html">
-            <text>Quel est la bonne réponse?</text>
+            <text>Quelle est la bonne réponse?</text>
         </questiontext>
         <penalty>1</penalty>
         <defaultgrade>1</defaultgrade>
@@ -35,7 +35,7 @@
             <text>Demo question d'appariement</text>
         </name>
         <questiontext format="html">
-            <text>Quel est la bonne réponse?</text>
+            <text>Quelle est la bonne réponse?</text>
         </questiontext>
         <penalty>1</penalty>
         <defaultgrade>1</defaultgrade>
