@@ -4,7 +4,7 @@
         <text>#2</text>
     </name>
     <questiontext format="html">
-        <text>Quelle est la bonne réponse ? #2</text>
+        <text>Quelle est la bonne réponse ? #3</text>
     </questiontext>
     <answer fraction="100">
         <text>true</text>
